@@ -1,7 +1,10 @@
  Project on Digital Literacy
 
-Name: Rahul Joshi
+Name: Rahul Joshi  
 Branch : B. Tech CSE core
+Reg no. : 25BCE10939
+Course: Digital literacy ( CSE0001)
+
 
 Summary
 The project is about knowing digital literacy and why it is important for students. Practical activities are part of it to improve the skills in digital tools, communication skills and online safety.
