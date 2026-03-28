@@ -9,7 +9,7 @@ Course: Digital literacy ( CSE0001)
 Summary
 The project is about knowing digital literacy and why it is important for students. Practical activities are part of it to improve the skills in digital tools, communication skills and online safety.
 
-Finished tasks
+Finished tasks  
 Task 1: Designed an infographic about digital literacy in Canva, included fundamental ideas and how to stay safe online.  
 Task 2: Developed a digital portfolio through the development of accounts on GitHub LinkedIn and Kaggle.  
 Task 3: Solved a beginner problem on HackerRank and made a Google Form quiz to check awareness of digital literacy.  
