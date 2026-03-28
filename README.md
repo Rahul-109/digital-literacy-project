@@ -2,8 +2,8 @@
 
 Name: Rahul Joshi  
 Branch : B. Tech CSE core
-Reg no. : 25BCE10939
-Course: Digital literacy ( CSE0001)
+Reg no. : 25BCE10939  
+Course: Digital literacy ( CSE0001)  
 
 
 Summary
